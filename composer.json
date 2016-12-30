@@ -1,12 +1,16 @@
 {
-    "name": "dawson/youtube",
+    "name": "craytor/youtube",
     "description": "Upload a video to YouTube with Laravel 5.",
     "license": "MIT",
     "authors": [
         {
             "name": "Joe Dawson",
             "email": "hi@joedawson.me"
-        }
+        },
+	{
+	    "name": "Tyler Youschak",
+	    "email": "me@tjyouschak.me"
+	}
     ],
     "require": {
         "php": ">=5.5.9",
@@ -15,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dawson\\Youtube\\": "src/"
+            "Craytor\\Youtube\\": "src/"
         }
     },
     "minimum-stability": "stable"
