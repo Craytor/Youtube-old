@@ -1,4 +1,4 @@
-<?php namespace Dawson\Youtube;
+<?php namespace Craytor\Youtube;
 
 use DB;
 use Carbon\Carbon;

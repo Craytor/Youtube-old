@@ -1,6 +1,6 @@
 <?php
 
-namespace Dawson\Youtube;
+namespace Craytor\Youtube;
 
 use Illuminate\Support\Facades\Facade;
 
