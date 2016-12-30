@@ -9,7 +9,7 @@ Also, this package was started by Dawson, but I want to add addition features. F
 To install, use the following to pull the package in via Composer.
 
 ```
-composer require dawson/youtube
+composer require craytor/youtube
 ```
 
 Now register the Service provider in `config/app.php`
